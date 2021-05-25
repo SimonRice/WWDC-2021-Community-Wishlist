@@ -77,6 +77,8 @@ A compilation of predictions and wishlists for WWDC 2021.
 ### Xcode
 - Xcode for iPad
 - A better way to manage build numbers
+- Improved merge conflict resolution built in (similar to Visual Studio Code)
+- HTTP traffic inspector (similar to having a built-in Charles/Proxyman)
 
 ### Miscellaneous (Developer Tools & Frameworks)
 - SwiftUI-like simplification of 2D/3D (perhaps building on top of SpriteKit/SceneKit like SwiftUI builds on UIKit) (Josh Hrach)
@@ -89,6 +91,7 @@ A compilation of predictions and wishlists for WWDC 2021.
 - Swift Playground for developing FxPlug 4 extensions to video applications (Alex ‘4D’ Gollner [@alex4D](https://twitter.com/alex4D))
 - Reduce/remove Developer Program membership fee
 - Ability to build watch faces
+- Allow per-version beta testing of Apple's operating systems (e.g., stay with 14.6 betas when Apple releases a 14.7 beta).
 
 ## App Store Policy, Tools, and APIs
 - TestFlight for macOS
